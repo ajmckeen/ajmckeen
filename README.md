@@ -4,10 +4,7 @@
 
 - <b>First Robotics Competition</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
- 
-# My Project Portfolio
 
-Here are some of the projects I've worked on:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -35,3 +32,7 @@ Here are some of the projects I've worked on:
   </div>
 
 </div>
+
+
+- <b>First Robotics Competition</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
