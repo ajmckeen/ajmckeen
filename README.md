@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>Hi, I'm Andrew!
 
-<!--
-**ajmckeen/ajmckeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Robotics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>First Robotics Competition</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+# My Project Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the projects I've worked on:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://photos.google.com/photo/AF1QipPjVA7pQNCrUT3twv3tbd2bb2fHkKJM6AxqTeXv" alt="Project 1" width="200"/>
+      <p>Project 1 Description</p>
+    </td>
+    <td>
+      <img src="URL_to_image2" alt="Project 2" width="200"/>
+      <p>Project 2 Description</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="URL_to_image3" alt="Project 3" width="200"/>
+      <p>Project 3 Description</p>
+    </td>
+    <td>
+      <img src="URL_to_image4" alt="Project 4" width="200"/>
+      <p>Project 4 Description</p>
+    </td>
+  </tr>
+</table>
