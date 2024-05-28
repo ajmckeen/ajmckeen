@@ -9,25 +9,26 @@
 
 Here are some of the projects I've worked on:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://photos.google.com/photo/AF1QipPjVA7pQNCrUT3twv3tbd2bb2fHkKJM6AxqTeXv" alt="Project 1" width="200"/>
-      <p>Project 1 Description</p>
-    </td>
-    <td>
-      <img src="URL_to_image2" alt="Project 2" width="200"/>
-      <p>Project 2 Description</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="URL_to_image3" alt="Project 3" width="200"/>
-      <p>Project 3 Description</p>
-    </td>
-    <td>
-      <img src="URL_to_image4" alt="Project 4" width="200"/>
-      <p>Project 4 Description</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <!-- Image 1 -->
+  <div style="flex: 1 1 200px;">
+    ![Image 1](https://via.placeholder.com/200)
+  </div>
+
+  <!-- Image 2 -->
+  <div style="flex: 1 1 200px;">
+    ![Image 2](https://via.placeholder.com/200)
+  </div>
+
+  <!-- Video -->
+  <div style="flex: 1 1 200px;">
+    <iframe width="200" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <!-- Image 3 -->
+  <div style="flex: 1 1 200px;">
+    ![Image 3](https://via.placeholder.com/200)
+  </div>
+
+</div>
