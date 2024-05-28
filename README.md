@@ -34,9 +34,4 @@ Here are some of the projects I've worked on:
     </video>
   </div>
 
-  <!-- 2020 Robot Image -->
-  <div style="flex: 1 1 30%;">
-    <img src="portfolio images/2020robot1.jpg" alt="2020 Robot 1" style="width: 100%;">
-  </div>
-
 </div>
