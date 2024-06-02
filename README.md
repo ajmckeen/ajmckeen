@@ -61,6 +61,10 @@
 
 [![Robot Arm Demo Video](https://img.youtube.com/vi/LgPf89N6zGk/0.jpg)](https://www.youtube.com/watch?v=LgPf89N6zGk)
 
+  - Pick and place 3 DOF robotic arm intelligently controlled using MATLAB and video camera / conputer vision techniques
+  - Color/shape based object recognition and localization
+  - Calculated DH parameters, forward and inverse kinematics, trajectory planning
+
 - <b>First Robotics Competition 2019 Team [1768](https://www.thebluealliance.com/team/1768)</b>
   - Contibution: Climber design, fabrication & assembly
   - Accomplishment: 2019 World Champs playoffs! :)
