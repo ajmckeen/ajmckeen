@@ -130,4 +130,31 @@
   - Developed curriculum and lab materials for an undergraduate level course at WPI to teach applications in artificial intelligence, machine learning, computer vision, and reinforcement learning
   - Conducted field research and gathered feedback from faculty and students about course materials
   - Designed new course materials, lab activities, and lecture content to address gaps in university curriculum
-  - 
+![LEMUR MQP Poster-1](https://github.com/ajmckeen/ajmckeen/assets/93172250/96d949d8-df54-4203-8910-09577efb4b04)
+
+<h2>Graduate Level Robotics Projects:</h2>
+
+- <b>Deep Learning</b>
+  - TIPID: Tool for Inpainting Image Detection
+  - Trained a CNN (convoluitonal neural network) using transfer learning from Densenet121
+  - Tranining using ADAM and binary cross-entropy loss, and achieved accuracy for detecting AI image editing of 92%
+  - We are very confident that this image that we generated with AI was in fact generated with AI
+  ![AI generated](https://github.com/ajmckeen/ajmckeen/assets/93172250/4852c623-854f-4db8-a370-c773ac5292a9)
+
+- <b>Papers</b>
+  - Swarm Intelligence: [Effect of Random Walk Parameter Tuning on Local-Sensing Swarm Agents in Environmental Exploration and Target Locating.pdf](https://github.com/user-attachments/files/15539179/Effect.of.Random.Walk.Parameter.Tuning.on.Local-Sensing.Swarm.Agents.in.Environmental.Exploration.and.Target.Locating.pdf)
+    - Conducted a study on random walk algorithms used by robot swarms. At the core of the study was focused on how far robots should drive and how much they should turn.
+  - Deep Reinforcement Learning & Robot Controls
+    - [Implementation of Network Search Tactics in Deep Reinforcement Learning Agent Controlled UAV Airspace Defense.pdf](https://github.com/user-attachments/files/15539281/Implementation.of.Network.Search.Tactics.in.Deep.Reinforcement.Learning.Agent.Controlled.UAV.Airspace.Defense.pdf)
+<table>
+  <tr>
+    <td>
+      <img src="portfolio images/robot_positions_alpha_1.000000_rho_0.000000_robots_10_0.png" alt="Turtlebot" width="300"/>
+    </td>
+    <td>
+      <img src="portfolio images/swarmfield.png" alt="Turtlebot" width="300"/>
+    </td>
+</table>
+<img src="portfolio images/KheperaIV.png" alt="Turtlebot" width="650"/>
+
+
