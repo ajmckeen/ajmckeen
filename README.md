@@ -57,6 +57,32 @@
   - Robot superstructure & actuators CAD in SolidWorks and 3D printed.
   - Robots accomplished pick & place and coordinated movements
  
+  <table>
+  <tr>
+    <td>
+      <img src="portfolio images/turtlebot.png" alt="Turtlebot" width="200"/>
+    </td>
+    <td>
+      <img src="portfolio images/turtlebot2.png" alt="Simulated Mapping" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="portfolio images/turtlebot3.png" alt="Real Mapping" width="300"/>
+    </td>
+    <td>
+      Maps represent exploration of environment <br>
+      Black: Walls <br>
+      Green dots: LiDAR readings <br>
+      Green fill: Exploration frontier expansion visualization <br>
+      Orange: Actual frontier cells <br>
+      Blue: C-Space (darker blue closer to walls) <br>
+      Gray: Open space <br>
+      Red line: Planned A* path
+    </td>
+  </tr>
+</table>
+ 
 - <b>Intelligent Robotics Arm</b>
 
 [![Robot Arm Demo Video](https://img.youtube.com/vi/LgPf89N6zGk/0.jpg)](https://www.youtube.com/watch?v=LgPf89N6zGk)
@@ -65,9 +91,12 @@
   - Color/shape based object recognition and localization
   - Calculated DH parameters, forward and inverse kinematics, trajectory planning
 
-- <b>First Robotics Competition 2019 Team [1768](https://www.thebluealliance.com/team/1768)</b>
-  - Contibution: Climber design, fabrication & assembly
-  - Accomplishment: 2019 World Champs playoffs! :)
+- <b>Mobile Robot Localization and Mapping</b>
+  - LiDAR equipped [Turtlebot](https://www.turtlebot.com/turtlebot3/) localized, mapped, and explored an unknown environment
+  - Programmed using ROS, primarily in Python
+  - Project demo included two phases
+    - Phase 1 used SLAM (simultaneous localization and mapping) to explore maze-like board. Mapping and localization data sent through ROS to RVIS and Gazebo. This creates a grid map for C-Space ([configuraiton space](https://www.cs.cmu.edu/~./motionplanning/lecture/Chap3-Config-Space_howie.pdf)) calculation and A* path planning
+    - Phase 2 uses the map created from phase 1 and navigates the map using AMCL (adaptive Monte Carlo localization)
 
 - <b>First Robotics Competition 2019 Team [1768](https://www.thebluealliance.com/team/1768)</b>
   - Contibution: Climber design, fabrication & assembly
