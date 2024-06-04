@@ -119,7 +119,7 @@
 
 - <b>Global Stem Initiative in Robotics (OpenSTEM)</b>
   - This was an IQP (Interactive Qualifying Project) directed by Brad Miller and Joesph Doiron. Our role was to create resources, support infrastructure, and communication platforms for WPI's OpenSTEM platform under the Global School, mainly focused on supporitng robotics teachers around the world
-  - Initiative generated this WPI marketing articles, apparently our project was highly marketable:
+  - Initiative generated these WPI marketing articles, apparently our project was highly marketable:
     -  https://www.wpi.edu/news/innovative-robot-kits-aim-spread-global-stem-access-opportunities-and-inspiration
     -  https://www.wpi.edu/news/wpi-interim-president-wole-soboyejo-importance-global-stem-education-dreaming-big-and-being
     -  https://www.wpi.edu/news/revolutionary-and-affordable-new-robotics-system-makes-debut-2022-first-global-challenge-win
@@ -143,7 +143,7 @@
 
 - <b>Papers</b>
   - Swarm Intelligence: [Effect of Random Walk Parameter Tuning on Local-Sensing Swarm Agents in Environmental Exploration and Target Locating.pdf](https://github.com/user-attachments/files/15539179/Effect.of.Random.Walk.Parameter.Tuning.on.Local-Sensing.Swarm.Agents.in.Environmental.Exploration.and.Target.Locating.pdf)
-    - Conducted a study on random walk algorithms used by robot swarms. At the core of the study was focused on how far robots should drive and how much they should turn.
+    - Conducted a study on random walk algorithms used by robot swarms. The core of the study was focused on how far robots should drive and how much they should turn.
   - Deep Reinforcement Learning & Robot Controls
     - [Implementation of Network Search Tactics in Deep Reinforcement Learning Agent Controlled UAV Airspace Defense.pdf](https://github.com/user-attachments/files/15539281/Implementation.of.Network.Search.Tactics.in.Deep.Reinforcement.Learning.Agent.Controlled.UAV.Airspace.Defense.pdf)
 <table>
@@ -156,5 +156,3 @@
     </td>
 </table>
 <img src="portfolio images/KheperaIV.png" alt="Turtlebot" width="650"/>
-
-
