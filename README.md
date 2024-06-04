@@ -126,7 +126,7 @@
     -  https://www.wpi.edu/news/inspiration-3-d-printed
     -  https://www.wpi.edu/news/geneva-inspiration-curiosity-and-equity-reigned-first-global-challenge-and-xprize-esg
 
-- <b>LEMUR: Learning and Education for Machine Learning for Undergraduate Robotics</b>
+- <b>LEMUR: Learning and Education in Machine Learning for Undergraduate Robotics</b>
   - Developed curriculum and lab materials for an undergraduate level course at WPI to teach applications in artificial intelligence, machine learning, computer vision, and reinforcement learning
   - Conducted field research and gathered feedback from faculty and students about course materials
   - Designed new course materials, lab activities, and lecture content to address gaps in university curriculum
